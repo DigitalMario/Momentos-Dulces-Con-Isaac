@@ -26,6 +26,10 @@
   .nav ul lis{
       float: left;
   }
+  .torta {
+    height: 400px;
+    width: 500px;
+  }
 
 
   
